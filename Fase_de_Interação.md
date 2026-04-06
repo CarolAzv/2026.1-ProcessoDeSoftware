@@ -11,9 +11,9 @@
 Executar o planejamento e exucução baseado pelos Casos de Uso, facilitando o acompanhamento e o feedback
 
 Ordem:
-*Criação de diagramas
+* Criação de diagramas
 *
-*Teste
+* Teste
 *
 
 # Testar a Solução
