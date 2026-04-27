@@ -26,16 +26,16 @@ Finalização do projeto e a passagem de operações para o dono e sua equipe
 
 ## Teste de Requisitos Qualitativos 
 * Teste funcional
-    foca en validar as funções conforme foram especificados
+    * foca en validar as funções conforme foram especificados
   
 * Teste de segurança
-    foca em garantir que os dados são acessíveis apenas para atores "autorizados"
+    * foca em garantir que os dados são acessíveis apenas para atores "autorizados"
   
 * Teste de volume
-    foca em verificar a habilidade do sistema em manut-aaaaaaaaaaaaaaaaaaaaaaa
+    * foca em verificar a habilidade do sistema em manut-aaaaaaaaaaaaaaaaaaaaaaa
   
 * Teste de usabilidade
-    foca em fatores humanos
+    * foca em fatores humanos
   
 * Teste de integridade
   
